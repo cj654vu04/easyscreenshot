@@ -1,0 +1,103 @@
+{
+  "browserActionTitle": {
+    "message": "簡易截圖"
+  },
+  "extensionDescription": {
+    "message": "你可以擷取一張螢幕截圖藉由選擇一片區域或抓取整個/可見的頁面. 再編輯並儲存成圖片檔案."
+  },
+  "extensionName": {
+    "message": "簡易截圖"
+  },
+  "feedbackUrl": {
+    "message": "http://mozilla.com.cn/addon/325-easyscreenshot/"
+  },
+  "minPanelWidth": {
+    "message": "18em"
+  },
+  "generic_crop_instruction": {
+    "message": "拖曳以開始, 雙擊滑鼠或按下Enter來完成"
+  },
+  "editor_title": {
+    "message": "Firefox Screen Shot 編輯"
+  },
+  "editor_color_tooltip": {
+    "message": "選擇一種顏色"
+  },
+  "editor_crop_tooltip": {
+    "message": "獲取快照"
+  },
+  "editor_rectangle_tooltip": {
+    "message": "新增一個矩形選取範圍"
+  },
+  "editor_circle_tooltip": {
+    "message": "新增一個橢圓形選取範圍"
+  },
+  "editor_text_tooltip": {
+    "message": "新增文字"
+  },
+  "editor_blur_tooltip": {
+    "message": "拖曳使其模糊"
+  },
+  "editor_line_tooltip": {
+    "message": "新增一條線"
+  },
+  "editor_pencil_tooltip": {
+    "message": "新增手繪線段"
+  },
+  "editor_undo_tooltip": {
+    "message": "取消"
+  },
+  "editor_local_tooltip": {
+    "message": "儲存於本機硬碟"
+  },
+  "editor_copy_tooltip": {
+    "message": "複製"
+  },
+  "editor_cancel_tooltip": {
+    "message": "關閉"
+  },
+  "editor_lineWidth_tooltip": {
+    "message": "線段寬度"
+  },
+  "editor_fontSize_tooltip": {
+    "message": "字體大小"
+  },
+  "editor_crop_instruction": {
+    "message": "拖曳以開始, 雙擊作結束"
+  },
+  "save_file_name": {
+    "message": "Firefox_Screenshot_$TIMESTAMP$.png",
+    "placeholders": {
+      "timestamp" : {
+        "content" : "$1"
+      }
+    }
+  },
+  "save_success": {
+    "message": "截圖已儲存"
+  },
+  "save_failure": {
+    "message": "無法保存截圖"
+  },
+  "copy_success": {
+    "message": "截圖複製到剪貼板"
+  },
+  "copy_failure": {
+    "message": "無法複製截圖至剪貼板"
+  },
+  "popup_select": {
+    "message": "擷取網頁區域"
+  },
+  "popup_entire": {
+    "message": "擷取整個網頁"
+  },
+  "popup_visible": {
+    "message": "擷取網頁可見區域"
+  },
+  "popup_settings": {
+    "message": "設定"
+  },
+  "popup_feedback": {
+    "message": "回饋與建議"
+  }
+}
